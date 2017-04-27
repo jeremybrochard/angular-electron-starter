@@ -22,14 +22,14 @@ Finnaly the app is executed with Electron binary.
 
 ## More commands
 
-**Angular CLI commands: **
+**Angular CLI commands:**
 
 - ng serve 
 - ng build 
 
 See other commands in the [Angular CLI](https://github.com/angular/angular-cli) official documentation.
 
-**Custom Electron commands: **
+**Custom Electron commands:**
 
 - npm run-script electron-build    
 
